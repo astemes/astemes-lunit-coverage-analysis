@@ -1,15 +1,10 @@
 # LUnit Coverage Analysis
 
 An add-on to [LUnit](https://github.com/astemes/astemes-lunit) that measures VI-level code coverage during test runs and reports the results in the LUnit UI or as a Cobertura XML report for continuous integration.
-
-## At a glance
-
-| | |
-|---|---|
-| **Measures** | VI-level coverage for VIs you select |
-| **Reports** | In-IDE result view and/or Cobertura XML |
-| **Requires** | LabVIEW, LUnit 2.0 or newer, debugging enabled on measured VIs |
-| **Install** | VIPM (stable releases) or GitHub Releases (pre-release builds) |
+- **Measure** VI-level coverage for selected VIs
+- **Reporting** In-IDE result view and/or Cobertura XML
+- **Requires** LabVIEW, LUnit 2.0 or newer, debugging enabled on measured VIs
+- **Install** throug VIPM (stable releases) or GitHub Releases (pre-release builds)
 
 ## Installation
 
